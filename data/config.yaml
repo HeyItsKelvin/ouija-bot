@@ -9,7 +9,7 @@ token_environment_variable: "DISCORD_TOKEN"
 prefix_environment_variable: "OUIJA_PREFIX"
 
 # ID of bot owner
-owner: 151162710757867521
+owner: 241302936028708868
 
 # game the bot is playing
 game: "Ouija!"
