@@ -6,7 +6,7 @@ client_id_environment_variable: "DISCORD_CLIENT_ID"
 token_environment_variable: "DISCORD_TOKEN"
 
 # Command prefix environment variable
-prefix_environment_variable: "OUIJA_PREFIX"
+prefix_environment_variable: "ouija!"
 
 # ID of bot owner
 owner: 241302936028708868
